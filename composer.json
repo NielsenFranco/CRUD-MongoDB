@@ -1,0 +1,7 @@
+{
+    "name": "nielsenfranco/crud-mongodb",
+    "description": "CRUD MongoDB App",
+    "require": {
+        "mongodb/mongodb": "^1.18"
+    }
+}
