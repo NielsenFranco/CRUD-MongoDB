@@ -1,0 +1,5 @@
+Luego de realizar cambios, abrir backup.php 
+
+o ejecutar en consola dentro de la carpeta del proyecto el siguiente comando: 
+
+mongodump --db biblioteca --out backup
